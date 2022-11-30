@@ -1,0 +1,157 @@
+body{ 
+    font-family: 'Montserrat', sans-serif; 
+} 
+body{ 
+    margin: 0; 
+    padding: 0; 
+} 
+ 
+* { 
+    box-sizing: border-box; 
+} 
+ 
+h1, h2, h3, h4, h5, h6{ 
+    padding: 0; 
+    margin: 0; 
+} 
+ 
+a{ 
+    text-decoration: none; 
+} 
+p{ 
+    margin: 0; 
+    padding: 0; 
+} 
+ul, li{ 
+    display: flex; 
+    padding: 0; 
+    margin: 0; 
+} 
+.container{ 
+    width: 1110px; 
+    margin: 0 auto; 
+} 
+.main-text h1{ 
+    font-family: 'Montserrat'; 
+    font-style: normal; 
+    font-weight: 700; 
+    font-size: 50px; 
+    line-height: 140%; 
+    width: 465px; 
+} 
+h2{ 
+text-align: center; 
+font-weight: 700; 
+font-size: 40px; 
+padding-bottom: 70px; 
+} 
+.game-block{ 
+ display: flex; 
+flex-direction: column; 
+align-items: center; 
+padding: 0px; 
+gap: 70px; 
+} 
+h3{ 
+font-family: 'Montserrat'; 
+font-style: normal; 
+font-weight: 700pxs; 
+font-size: 30px; 
+line-height: 140%; 
+} 
+p{ 
+font-family: 'Montserrat'; 
+font-style: normal; 
+font-weight: 500px; 
+font-size: 18px; 
+line-height: 136.7%; 
+} 
+.insaide{ 
+    display: flex; 
+    margin-bottom: 50px; 
+} 
+.deniska-pipiska{ 
+    margin: 0 auto; 
+    justify-content: center; 
+    width: 700px; 
+    margin: 0 auto; 
+}.ilia{ 
+    display: flex; 
+    align-items: center; 
+    justify-content: space-between; 
+    padding-bottom: 120px; 
+} 
+.link{ 
+    padding:22px; 
+    background: #FF6861; 
+    border-radius: 100px; 
+    display: block; 
+    width: 151px; 
+    text-align: center; 
+    color: aliceblue; 
+    margin-top: 30px; 
+} 
+.dima{ 
+    display: flex; 
+     align-items: center; 
+     justify-content: space-between; 
+     background: linear-gradient(102deg, #FFF6DF 17.38%, #FFDFDE 81.25%); 
+    border-radius: 60px; 
+    padding-right: 101px; 
+    } 
+.dima h4{ 
+    font-family: 'Montserrat'; 
+    font-style: normal; 
+    font-weight: 700; 
+    font-size: 40px; 
+    line-height: 140%;display: flex; 
+    flex-direction: column; 
+    align-items: flex-start; 
+    padding-bottom: 24px; 
+    gap: 24px; 
+} 
+.chistyi{ 
+    padding-left: 122px; 
+    padding-top: 81px; 
+    padding-bottom: 70px; 
+} 
+footer p{ 
+    text-align: center; 
+} 
+footer{ 
+    margin-top: 120px; 
+    margin-bottom: 120px; 
+} 
+section{ 
+    margin-top: 120px; 
+} 
+.sasha{ 
+    width: 500px; 
+    margin-top: 50px; 
+    
+} 
+.qr{ 
+    width: 300px; 
+    margin-right: 50px; 
+    
+} 
+.bg{ 
+width: 250px; 
+} 
+a{ 
+width: 250px; 
+color: black; 
+} 
+.cp{ 
+width: 250px; 
+} 
+.car{ 
+    width: 250px; 
+} 
+.corova{ 
+    width: 250px; 
+} 
+.container{ 
+display: flex; 
+justify-content: space-between; 
+}
